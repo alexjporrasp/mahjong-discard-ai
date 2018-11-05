@@ -1,0 +1,10 @@
+# ignore game-logs
+**/game-logs
+# ignore datasets
+**/datasets
+# ignore stages
+checkpoint
+model.ckpt.data-00000-of-00001
+model.ckpt.index
+# ignore pycache
+**/__pycache__
